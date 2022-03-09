@@ -7,9 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        echo "NAMA : MUHAMAD NIZAMUDIN <br>";
-        echo "NIM : 200411100193";
-    ?>
+<?php
+    $a = 10;
+    $b = 13;
+    $hasil = $a + $b;
+    echo "a = 10 <br>";
+    echo "b = 13 <br>";
+    echo "a+b=";
+    echo $hasil;
+?>
 </body>
 </html>
